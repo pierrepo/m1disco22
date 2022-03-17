@@ -19,6 +19,7 @@ My favourite music artists are:
 - Morcheeba
 - Les Fatals Picards
 
-Oh and I really like animated GIFs  :grimacing: 
+Oh and I really like animated GIFs  :grimacing:
+
 ![](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy-downsized.gif)
 
