@@ -24,6 +24,9 @@
 
 ### Some nice gifs:
 
+
+#### Left image
+
 <p align="left">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
@@ -36,6 +39,8 @@ Code:
 </p>
 ```
 
+#### Center image
+
 <p align="center">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
@@ -47,6 +52,8 @@ Code:
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 ```
+
+#### Right image
 
 <p align="right">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
