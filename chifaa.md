@@ -13,7 +13,7 @@ while(True):
     print('chifaa is awesome!')
 ```
 **Mathematical Equation :**
-$[ x^n + \sqrt{2} y^n = z^n ]$
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 My favourite animes are:
 
