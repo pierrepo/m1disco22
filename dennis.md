@@ -61,7 +61,7 @@ Code:
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 
-Code:
+Code: HI DENNIS I'M CREATING A MERGE CONFLICT
 
 ```
 <p align="right">
