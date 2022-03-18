@@ -11,12 +11,14 @@ And I looooove music, all kind of music !
 - Jazz etc.
 
 Please [keep track](https://docs.google.com/spreadsheets/d/1yxYZUc3EF3g-xxgUWgwsrcvGWR4kpmhlm8cFWA6doQU/edit#gid=0) of our progress :)
-A lot of it is `Done`
+Mark it as `Done` when you are !
 
 ```python 
 #fenced code
 for color in mypalette:
     print(color)
 ```
+And I have to say that $e^{i\pi} + 1 = 0$
+
 
 ![](https://media.giphy.com/media/JcSvQuMugClLW/giphy.gif)
