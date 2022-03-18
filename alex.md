@@ -24,4 +24,8 @@ My favourite desserts are:
 ![image alt](https://media2.giphy.com/media/4ayiIWaq2VULC/giphy.gif?cid=ecf05e47l0zq9wow2wk8w1ijk0uqp3w3ycx4oywanjdkrlvl&rid=giphy.gif&ct=g)
 
 ## Favourite mathematical equation
+Because of an issue in GitHub's MarkDown rendering, the following doesn't work:
 $e^{i\pi}= -1$
+
+But, we can do the following:
+<img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1">
