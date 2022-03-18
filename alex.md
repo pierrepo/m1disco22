@@ -28,4 +28,11 @@ Because of an issue in GitHub's MarkDown rendering, the following doesn't work:
 $e^{i\pi}= -1$
 
 But, we can do the following:
+<<<<<<< HEAD
 <img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1"> Merge conflict?
+=======
+<img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1">
+
+
+//added by dennis//
+>>>>>>> 6158cd1acc87cc933de7c1c0a2ea8d1c854941f7
