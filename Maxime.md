@@ -18,7 +18,7 @@ Mark it as `Done` when you are !
 for color in mypalette:
     print(color)
 ```
-And I have to say that <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+And I have to say that <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -2">
 
 
 ![](https://media.giphy.com/media/JcSvQuMugClLW/giphy.gif)
