@@ -6,9 +6,9 @@ I'm a Digital Sciences Master's student at [Université de Paris](https://u-pari
 
 I'm also Lebanese. I enjoy baking at home :cake:
 
-Here's some Python code :
+Here's some code with both `inline` and
 ```python 
-#chifaa's code
+#fenced code
 while(True):
     print('chifaa is awesome!')
 ```
