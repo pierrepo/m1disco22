@@ -2,7 +2,11 @@
 
 :wave: my name is **Nurlan** !!
 
+<<<<<<< HEAD
 I'm a Digital Engineering§ Master's student at [Université de Paris](https://u-paris.fr/en/). I have a bachelor's degree in Computer Science :green_book:
+=======
+I'm a Digital Arts Master's student at [Université de Paris](https://u-paris.fr/en/). I have a bachelor's degree in Computer Science :green_book:
+>>>>>>> 09d08396909a4910e9c2a794e4f8612036d26949
 
 I'm from Kyrgyzstan. I enjoy eating Chifaa's baking and cooking :cake:
 
