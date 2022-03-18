@@ -9,7 +9,9 @@ This is our page. We are Natasha and Yasi.
 I'm from Iran. I'm an M1 digital science at Universite de Paris. I love programming and data analysis. 
 
 My favorite singer is *[Mohammadreza Shajarian](https://en.wikipedia.org/wiki/Mohammad-Reza_Shajarian)*, who is an Iranian singer. 
-And the important thing is that Nowruz is coming in two days. Nowruz is Persian new year and it starts exactly at the time that we enter the **SPRING**. So Happy New Year! :evergreen_tree:
+
+And the important thing is that Nowruz is coming in two days. Nowruz is Persian new year and it starts exactly at the time that we enter the **SPRING**. So Happy New Year! :evergreen_tree: :rocket:
+
 And this is my code:
 ```python 
 #fenced code
