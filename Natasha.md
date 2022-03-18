@@ -17,6 +17,7 @@ My favorite food is:
 - Chocolate
 - Chocolate
 - Chocolate
+
 ![](https://media.giphy.com/media/Tyyr7XJh3NKco/giphy.gif)
 
 ### Serious part
