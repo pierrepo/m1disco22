@@ -24,14 +24,38 @@
 
 ### Some nice gifs:
 
+<p align="right">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
+</p>
+
+Code:
+
+```
+<p align="right">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
+</p>
+```
+
 <p align="center">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 
-You can replicate with:
+Code:
 
 ```
 <p align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
+</p>
+```
+
+<p align="left">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
+</p>
+
+Code:
+
+```
+<p align="left">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 ```
