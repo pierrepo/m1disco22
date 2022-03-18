@@ -1,7 +1,7 @@
 # Maxime
 Hey I'm Maxime from France, Europe 🇪🇺
 
-I have a bachelor in **literature** (French, Latin, Italian and English) and a Master Degree in **geopolitics**.
+I have a licence in **literature** (French, Latin, Italian and English) and a Master Degree in **geopolitics**.
 
 I'm doing an internship at **AirFrance** ✈️
 
