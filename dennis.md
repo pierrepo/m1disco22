@@ -10,7 +10,7 @@
 
 - My favourite group is Linkin Park :guitar: :notes:. In my free tieme I enjoy travel :airplane:. 
 
-- My favourite formula is: $E=m c^2$
+- My favourite formula is: <img src="https://render.githubusercontent.com/render/math?math=E=mc^2">
 
 ### Find me on social networks:
 
