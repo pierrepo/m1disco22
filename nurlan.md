@@ -14,5 +14,8 @@ My favourite animes are:
 
 ![](https://media.giphy.com/media/JcSvQuMugClLW/giphy.gif)
 
+**Mathematical Equation :**
+$[ x^n + \sqrt{2} y^n = z^n ]$
+$e^{i \pi} = -1$
 
 
