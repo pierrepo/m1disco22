@@ -8,6 +8,8 @@
 
 - My favourite group is Linkin Park :guitar: :notes:. In my free tieme I enjoy travel :airplane:. 
 
+- My favourite formula is: $E=m c^2$
+
 - You can find me on [![Tweet](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/dennishnf), [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/dennishnf), and [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennishnf).
 
