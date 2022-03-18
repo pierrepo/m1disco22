@@ -29,3 +29,6 @@ $e^{i\pi}= -1$
 
 But, we can do the following:
 <img src="https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1">
+
+
+//added by dennis//
