@@ -2,16 +2,13 @@
 
 I came from Russia but in **2019** I decided to turn my life upside down and moved to France. 
 I have a degree in *computer science* and *linguistics*, pretty contraversial, huh. :dizzy_face:
-I love books, movies (sad ones) 🥲 and music.
+I love books, movies (sad ones) and music.
+
 ![](https://media.giphy.com/media/5WmyaeDDlmb1m/giphy.gif)
 
 Mathematical equations like this  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-\begin{equation}
-    \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
-    \label{eq:stokes}
-\end{equation}
 
 make me feel the same way.
 
