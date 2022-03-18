@@ -6,12 +6,14 @@ I'm a Digital Sciences Master's student at [Université de Paris](https://u-pari
 
 I'm also Lebanese. I enjoy baking at home :cake:
 
-Here's some code with both `inline` and
+Here's some Python code with both `inline` and
 ```python 
 #fenced code
 while(True):
     print('chifaa is awesome!')
 ```
+**Mathematical Equation :**
+$[ x^n + \sqrt{2} y^n = z^n ]$
 
 My favourite animes are:
 

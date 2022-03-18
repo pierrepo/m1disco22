@@ -32,4 +32,5 @@ Oh and I really like animated GIFs  :grimacing:
 ![](https://media2.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif?cid=ecf05e471klj0408r45cf56bavvka178wnjfqja2mg2kmwvv&rid=giphy.gif&ct=g)
 
 
+My favorite equation is : h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x 
 
