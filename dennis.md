@@ -24,14 +24,14 @@
 
 ### Some nice gifs:
 
-<p align="right">
+<p align="left">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 
 Code:
 
 ```
-<p align="right">
+<p align="left">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 ```
@@ -48,14 +48,14 @@ Code:
 </p>
 ```
 
-<p align="left">
+<p align="right">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 
 Code:
 
 ```
-<p align="left">
+<p align="right">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif" alt="figure" width="100"/>
 </p>
 ```
