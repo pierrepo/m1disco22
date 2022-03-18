@@ -17,4 +17,4 @@ for i < 2:
     print('Happy Nowruz')
 ```
 And please take a look at that. It is important!😂😂
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}" style="--color_fill: #000;">
