@@ -3,7 +3,7 @@
 
 Wassup! This is  **Irina** :smiling_imp: 
 
-I am a computer science student at Disc Master of [LPI](https://learningplanetinstitute.org/en). I used yo do Biologyyy.
+I am a computer science student at Disc Master of [LPI](https://learningplanetinstitute.org/en). I used to do Biologyyy at CRI (It's the same as LPI but the old name, they changed it).
 
 You can find me on *GitHub* by clicking on my name : [Irina](https://github.com/irinade) :octocat: 
 
