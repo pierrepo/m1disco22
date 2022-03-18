@@ -6,7 +6,13 @@ I love books, movies (sad ones) 🥲 and music.
 ![](https://media.giphy.com/media/5WmyaeDDlmb1m/giphy.gif)
 
 Mathematical equations like this  
-$$ \int_0^\infty \mathrm{e}^{-x},\mathrm{d}x $$
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+\begin{equation}
+    \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
+    \label{eq:stokes}
+\end{equation}
+
 make me feel the same way.
 
 My favorite food is:
