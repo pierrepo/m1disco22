@@ -1,5 +1,5 @@
 # Alex <img src="https://media-exp1.licdn.com/dms/image/C4E03AQF2jOB-_X8rFA/profile-displayphoto-shrink_200_200/0/1638658990421?e=1652918400&v=beta&t=TAXi6BbRL1N-NxW5BvTK1Pr-VPa86K5LUq7vkZ004gI" width="50" height="50" style ="border-radius: 50%;">
-Hi, my name is **Alexander** but you can call me  **Alex**. I was born in Mexico and I studied there until my bachelor's degree. I am a Computer Engineer and Mechatronics Engineer graduated from [*Instituto Tecnológico Autónomo de México*](www.itam.mx)
+Hi, my name is **Alexander** but you can call me  **Alex**. I was born in Mexico and I studied there until my bachelor's degree. I am a Computer Engineer and Mechatronics Engineer graduated from [*Instituto Tecnológico Autónomo de México*](https://www.itam.mx)
 
 If you are wondering how did we manage to put our pictures there, just see this code:
 ```HTML 
