@@ -1,5 +1,7 @@
 # Dennis <img src="https://dennishnf.com/dennishnf-photo1.jpg" alt="Girl in a jacket" width="50" height="50" style ="border-radius: 50%;">
 
+### Something about me:
+
 - Hello, I'm **Dennis**. I'm from Peru :blush:. 
 
 - My background is electronic engineering :computer: at [Universidad Nacional de Ingeniería](https://www.uni.edu.pe/). 
