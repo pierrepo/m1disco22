@@ -17,7 +17,7 @@ Now I am pursuing my first year of Master’s Degree in Digital Sciences at the 
 
 
 
-Here's some Python code with both `inline` and
+Here's some Python code with both `inline` and 
 ```python 
 #fenced code
 while(True):
